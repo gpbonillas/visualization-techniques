@@ -9,3 +9,8 @@ Datasets que permiten aplicar las siguientes técnicas de visualización:
 Para preparar el dataset de Tag Cloud se han aplicado técnicas de transformación de datos brutos. Para lo cual se ha usado Python en Jupyter Notebooks.
 
 Se ha usado el servicio [Flourish](https://flourish.studio/), que permite cargar datasets y graficar aplicando las técnicas mencionadas anteriormente.
+
+Los datasets se han tomado desde: 
+
+- [Stack Overflow](https://info.stackoverflowsolutions.com/rs/719-EMH-566/images/stack-overflow-developer-survey-2021.zip)
+- [Kaggle](https://www.kaggle.com/navinmundhra/world-mortality?select=Adult+mortality.csv)
